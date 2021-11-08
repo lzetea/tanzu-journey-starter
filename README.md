@@ -1,1 +1,1 @@
-# tanzu-journey-starter.github.io
+# [tanzu-journey-starter](https://lzetea.github.io/tanzu-journey-starter/)
